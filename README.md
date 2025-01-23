@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 # zustand_test
+# I18n_scan_twoo
